@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-07",
+  "adaptation": "Instrucciones portables reescritas a partir de diez agentes de Mago 2026; sin fuentes narrativas.",
+  "files": {
+    ".codex/agents/asistente-mesa.toml": "21befd91888101df449e2c3c20d96eb08141868c2f24b90e9c71a5c201d5ca8e",
+    ".codex/agents/gestor-pendientes.toml": "744f617992478e7a00c7c9371cf1be3d77be8d83ff47754778c53ae93c98f63d",
+    ".codex/agents/responsable-compilacion.toml": "f272837c016e7d2b53863134f7a874843576b21cdff8b4c59fc0453246199cfd",
+    ".codex/agents/resumidor.toml": "b92dfee6ee49592915d156969eaf765716d5e9b7e207e96adc36de5aaaef7d21",
+    ".codex/agents/revisor-cierre-pendientes.toml": "77897f341c388b4b0ce89ce2dd48502027279e38701a3fba6096194e609b0d0f",
+    ".codex/agents/revisor-coherencia-estructural.toml": "7e0bb3dec69457a0267dc827c2772281bcce7e32addaa1a9324b05643a18f3d7",
+    ".codex/agents/revisor-continuidad.toml": "d4384e33350ab7ab7aa028f4ac49614f02c9b4b51da6f4d7985860109faf6482",
+    ".codex/agents/revisor-jugabilidad.toml": "66c78af49840f1fe6785b81c4446f81c590519c314f60e4f7c60ee8a2a22bf17",
+    ".codex/agents/revisor-legibilidad.toml": "7abffb310e628b75b68ed00822780df7bd11d4539e4f985f5c108e4b3690f4bb",
+    ".codex/agents/revisor-maquetacion.toml": "19ba50f6c6c14da6d8d572241538f790f8b5ef59412c68bcab3d60a2a2c5750b",
+    ".gitignore": "b0be1efa269ca07819e9792c0519a66ccf4a076e4a10310bee3d28ef6e510a84",
+    "AGENTS.ejemplo.md": "310d02901927a8ffd9c83e39f04e63a9ce47a88d7296497e00099fd038c2facb",
+    "GUIA-DE-USO.md": "d456f5c7df3c4057cfae0171ed04c3e7a9f34907d6f29c1e8ea072e4b768e8d7",
+    "README.md": "c50a04bec604746bb98451d3f98a08d7e21d416e94b0a19abebfd848233aad54"
+  }
+}
